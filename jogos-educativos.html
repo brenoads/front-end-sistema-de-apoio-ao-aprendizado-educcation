@@ -1,0 +1,73 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Jogos Educativos</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo-mobile.css">
+    <link rel="stylesheet" href="lib/bootstrap/bootstrap.min.css">
+    <script src="js/javascript.js"></script>
+    <script src="js/script-mobile.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
+  <body>
+    <header>
+
+    <nav>
+      <div class="logo">
+          <a href="index.html">
+              <img src="imagens/logo-site.jpg">
+
+          </a>
+      </div>
+
+      <div class="menu-icon" onclick="abrirMenu()">
+          <img src="imagens/menu.png">
+      </div>
+
+      <ul>
+        <li> <a href="#">Plataformas de Ensino</a></li>
+        <li> <a href="jogos-educativos.html">Jogos Educativos</a></li>
+        <li> <a href="calculadora-imc.html">Calcular IMC</a></li>
+        <li> <a href="calculadora-porcentagem.html">Calc. de Porcentagem</a></li>
+      </ul>
+  </nav>
+</header>
+    <section style="margin: 2%;">
+      <h1 style="text-align: left;">Jogos Educativos</h1><br>
+<div class="alinhamento-mobile">
+      <div style="margin-left: 34%;">
+        <a href="jogo-da-velha.html"><img src="imagens/jogo-da-velha.webp"></a>
+        <p style="margin-left: 30px; text-transform: uppercase;">Jogo da Velha</p>
+        <button style="position: relative; top: -45px; margin-left:220px; width:
+          100px;" type="button" class="btn btn-primary">
+          <a style="color: white; text-decoration: none; text-transform:
+            uppercase;" href="jogo-da-velha.html">Jogar</a></button>
+      </div>
+</div>
+<br><br>
+    </section>
+    
+      <div class="rodape">
+        <footer id="footer-mob">
+
+          <p style="color:white; background:black; position: absolute; left:
+            25%;">© Educcation 2022 - Sistema de Apoio ao Aprendizado |
+            Desenvolvido Por <a href="https://github.com/brenoads"
+              target="_blank">Breno Luis</a></p>
+
+        </footer>
+      </div>
+    </div>
+  
+  <script>
+    var menu = document.querySelector('nav ul');
+    var menuIcon = document.querySelector('.menu-icon');
+    
+    function abrirMenu(){
+        menu.classList.toggle('open');
+    }</script>
+  </body>
+</html>

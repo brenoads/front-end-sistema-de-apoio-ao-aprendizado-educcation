@@ -1,0 +1,115 @@
+@media only screen and (max-width:576px){
+.esconder-mobile{
+    display: none;
+}
+.esconder-descktop{
+    display: none;
+}
+#info-banner-text h1{
+  position: relative;
+  top: 480px;
+  font-size: 20px;
+  height: 280px;
+
+}
+#info-banner img{
+  display: none;
+}
+
+.fundo-img {
+  background: rgba(137, 43, 226, 0.884);
+  height: 150px;
+}
+#footer-mob{
+  
+  position: relative;
+  top: -0px;
+  left: 10px;
+  margin-left: -40%;
+}
+
+#section-mobile{
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#section-mobile p{
+  margin-left: 2%;
+  margin-right: 2%;
+}
+#aling-span p{
+  margin-left: 5%;
+  margin-right: 5%;
+  position: relative;
+  top:20px;
+  
+}
+#section-mobile h1{
+  margin-left: 4%;
+  margin-right: 4%;
+}
+#intro-h1{
+  left: -4%;
+  
+}
+#servicos{
+  height: 800px;
+}
+
+  .menu-icon{
+      display:block ;
+      cursor: pointer;
+      z-index: 10;
+  }
+  nav ul{
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 60%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: left;
+      flex-direction: column;
+      transform: translateX(100%);
+      transition: transform 0.6s ease-in;
+      background-color: #0000008c;
+      z-index: 1;
+  }
+  nav ul.open{
+      transform: translateX(0);
+  }
+  nav ul li{
+      margin: 10px 0;
+  }
+  nav ul li a{
+      font-size: 1.3rem;
+      color: white;
+      position: relative;
+      top: -130px;
+      margin-left: -30px;
+  }
+
+  /*CSS Jogos Educativos*/
+  .alinhamento-mobile{
+margin-left:-170px;   
+
+}
+/*CSS Calculadora IMC*/
+#form-imc{
+  width: 100%;
+  position: relative;
+  top: 30px;
+  margin-left: -2px;
+}
+.p-imc{
+  width: 80%;
+  position: relative;
+  top:10px;
+  margin-left: 20px;
+}
+/*FIM CODIGO IMC*/
+#alin{
+  width: 100%;
+}
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Sistema de Apoio ao Aprendizado</title>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo-mobile.css">
+    <link rel="stylesheet" href="lib/bootstrap/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body style="width:100%;">
+
+    <header>
+      <nav>
+        <div class="logo">
+          <a href="index.html">
+            <img src="imagens/logo-site.jpg">
+          </a>
+        </div>
+
+        <div class="menu-icon" onclick="abrirMenu()">
+          <img src="imagens/menu.png">
+        </div>
+
+        <ul>
+          <li> <a href="#">Plataformas de Ensino</a></li>
+          <li> <a href="jogos-educativos.html">Jogos Educativos</a></li>
+          <li> <a href="calculadora-imc.html">Calcular IMC</a></li>
+          <li> <a href="calculadora-porcentagem.html">Calc. de Porcentagem</a></li>
+        </ul>
+
+      </nav>
+    </header>
+    <section id="section-mobile">
+
+      <div class="d-grid gap-2 d-md-block">
+        <div id="info-banner">
+          <div id="banner">
+            <img src="imagens/rev.png">
+          </div>
+          <div id="info-banner-text">
+            <h1 id="intro-h1">Educcation Sistema<br>de Apoio ao Aprendizado
+              <small>Seja bem vindo(a) ao Educcation nós somos<br> a solução
+                informatizada para você aluno ou professor.</small></h1>
+          </div>
+        </div>
+
+        <div class="fundo-img">
+          <div class="img-meio"> <img
+              src="imagens/capa-comunicacao-interna.png"></div>
+        </div>
+      </div>
+<div id="alin">
+      <div id="serv-position">
+        <div id="servicos">
+          <h1>Conheça mais sobre o Educcation <b>Ensino Gratuito<br> Garantido!
+            </b>É tudo pra você.</h1>
+          <div class="row thumbnails">
+            <div class="col-md-4">
+              <p>Está aplicação tem como foco facilitar a vida do estudante, na
+                hora de estudar online,
+                pois o mesmo reune diversas ferramentas de ensino, que irão
+                facilitar bastante
+                na hora de voçê estudante ou professor necessitar de alguma
+                delas.</p>
+            </div>
+
+            <div class="col-md-4">
+              <p>O Educcation poderá ser usado como ferramenta de apoio no ensino e apredizagem com a informática
+                dentro ou fora de uma instituição de ensino. Essa aplicação tras 
+                ferramentas que poderão estar auxiliando e faciliotando na hora de estudar.</p>
+            </div>
+
+            <div class="col-md-4" class="play-inco">
+              <p>O Educcation foi desenvolvido por Breno Luis<br> Analista de Sistemas | Dev | Front-End | MySQL</p>
+            </div>
+
+          
+          </div>
+
+            <div id="aling-span">
+              <p>O codigo fonte desse projeto estará disponível no Github no
+                endereço:
+                <a href="https://github.com/brenoads">https://github.com/brenoads</a>
+                podera ser modificado por qualquer pessoa que tenha <br>conhecimento
+                em
+                desenvolvimento de web e deseja aprimorar essa aplicação.</p>
+            </div>
+          </div>
+        </div>
+
+      </section>
+      <div class="space"></div>
+      <div class="rodape">
+        <footer id="footer-mob">
+          <p style="color:white; background:black; position: absolute; left:
+            25%;">© Educcation 2022 - Sistema de Apoio ao Aprendizado |
+            Desenvolvido Por <a href="https://github.com/brenoads"
+              target="_blank">Breno Luis</a></p>
+        </footer>
+      </div>
+    </div>
+    <script src="js/javascript.js"></script>
+    <script src="js/script-mobile.js"></script>
+    <script>
+    var menu = document.querySelector('nav ul');
+    var menuIcon = document.querySelector('.menu-icon');
+    
+    function abrirMenu(){
+        menu.classList.toggle('open');
+    }</script>
+  </body>
+</html>
