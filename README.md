@@ -16,7 +16,4 @@ Foi desenvolvido com HTML5, CSS, JavaScript e a framework Bootstrap, é um siste
 
 <img width="948" alt="edu-3" src="https://user-images.githubusercontent.com/62378264/215921625-279e65d3-5e6d-4bde-a46d-82ad8796b8d6.png">
 
-![mobile](https://user-images.githubusercontent.com/62378264/215921514-a3016d59-d5f5-43ec-a45e-64ad5760ead0.png)
-
-
-![mobile (1)](https://user-images.githubusercontent.com/62378264/215921491-f646d501-73dc-4019-9d87-42135c40e607.png)
+![mobile](https://user-images.githubusercontent.com/62378264/215921514-a3016d59-d5f5-43ec-a45e-64ad5760ead0.png) ![mobile (1)](https://user-images.githubusercontent.com/62378264/215921491-f646d501-73dc-4019-9d87-42135c40e607.png)
