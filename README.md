@@ -7,6 +7,7 @@ Foi desenvolvido com HTML5, CSS, JavaScript e a framework Bootstrap, é um siste
 
 [𝑰𝒕 𝒘𝒂𝒔 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒘𝒊𝒕𝒉 𝑯𝑻𝑴𝑳5, 𝑪𝑺𝑺, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒂𝒏𝒅 𝒕𝒉𝒆 𝑩𝒐𝒐𝒕𝒔𝒕𝒓𝒂𝒑 𝒇𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌, 𝒊𝒕 𝒊𝒔 𝒂 𝒔𝒊𝒎𝒑𝒍𝒆 𝒂𝒏𝒅 𝒐𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆 𝒔𝒚𝒔𝒕𝒆𝒎, 𝒂𝒏𝒅 𝒂𝒕 𝒕𝒉𝒆 𝒔𝒂𝒎𝒆 𝒕𝒊𝒎𝒆 𝒆𝒇𝒇𝒆𝒄𝒕𝒊𝒗𝒆, 𝒊𝒕 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒊𝒎𝒑𝒓𝒐𝒗𝒆𝒅 𝒐𝒗𝒆𝒓 𝒕𝒊𝒎𝒆, 𝒊𝒏 𝒐𝒓𝒅𝒆𝒓 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒆 𝒎𝒐𝒓𝒆 𝒂𝒏𝒅 𝒎𝒐𝒓𝒆 𝒓𝒐𝒃𝒖𝒔𝒕.]
 
+<img width="947" alt="edu-1" src="https://user-images.githubusercontent.com/62378264/215922412-2c16d255-0151-4981-b785-a01bf31898a3.png">
 <img width="948" alt="edu-2" src="https://user-images.githubusercontent.com/62378264/215922391-f1160e12-3bed-4cf1-8543-a7f844e04b7a.png">
 <img width="948" alt="edu-3" src="https://user-images.githubusercontent.com/62378264/215922406-dbdf4fd4-a8c8-48b0-859c-00817226eafa.png">
-<img width="947" alt="edu-1" src="https://user-images.githubusercontent.com/62378264/215922412-2c16d255-0151-4981-b785-a01bf31898a3.png">
+
