@@ -9,8 +9,8 @@ Foi desenvolvido com HTML5, CSS, JavaScript e a framework Bootstrap, é um siste
 
 
 
-<img width="400" alt="edu-2" src="https://user-images.githubusercontent.com/62378264/215921595-53e2ae78-f836-46d4-85a5-1701ae0832d1.png"> <img width="400" alt="edu-1" src="https://user-images.githubusercontent.com/62378264/215921550-542decfa-1880-4cb3-a272-1485fd546d67.png">
+<center><img width="400" alt="edu-2" src="https://user-images.githubusercontent.com/62378264/215921595-53e2ae78-f836-46d4-85a5-1701ae0832d1.png"> <img width="400" alt="edu-1" src="https://user-images.githubusercontent.com/62378264/215921550-542decfa-1880-4cb3-a272-1485fd546d67.png">
 
-<center><img width="600" alt="edu-3" src="https://user-images.githubusercontent.com/62378264/215921625-279e65d3-5e6d-4bde-a46d-82ad8796b8d6.png">/center>
+<img width="600" alt="edu-3" src="https://user-images.githubusercontent.com/62378264/215921625-279e65d3-5e6d-4bde-a46d-82ad8796b8d6.png"></center>
 
 ![mobile](https://user-images.githubusercontent.com/62378264/215921514-a3016d59-d5f5-43ec-a45e-64ad5760ead0.png) ![mobile (1)](https://user-images.githubusercontent.com/62378264/215921491-f646d501-73dc-4019-9d87-42135c40e607.png)
